@@ -61,6 +61,11 @@ var myArray = [];
 myArray.push("something to store");
 myArray.push("something else to store");
 
+var toDoInfo = {
+  task: "Thing I need to do",
+  completed: false
+};
+
 function saveList() {
   var toDos = [];
 

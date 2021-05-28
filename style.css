@@ -1,5 +1,5 @@
 body {
-  background-color: #49b749;
+  background-color: #d4b9ed;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
 }
@@ -52,7 +52,7 @@ body {
   margin: 10px 2px;
   padding: 5px 20px;
   border-radius: 15px;
-  background-color: #0093d5;
+  background-color: #45ad9e;
   border: none;
   color: #fff;
   text-align: center;
@@ -81,15 +81,15 @@ body {
 }
 
 .todo-wrapper #clear-button {
-  background-color: #49b749;
+  background-color: #4ead67;
 }
 
 .todo-wrapper #empty-button {
-  background-color: #9b1c20;
+  background-color: #c93a5c;
 }
 
 .todo-wrapper #save-button {
-  background-color: #49b749;
+  background-color: #44b862;
 }
 
 @media only screen and (min-width: 1400px) {
